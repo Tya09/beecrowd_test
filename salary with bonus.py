@@ -8,5 +8,6 @@ print("TOTAL =",round(seller_total_salary,2))
 
 
 #cara 2
+#cara agar meminimalisir variabel
 nama = input()
 print("TOTAL =",round(float(input()) + ((15/100) * float(input())),2))
